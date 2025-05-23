@@ -1,16 +1,21 @@
 ## Hi there 👋
+<h1>Hi, I'm Nowah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/nowah-g-quanteh-72a9991b2/">Aspiring Cybersecurity Professional</a>, <a href="https://sites.google.com/view/journeytill/home">Google Website</a></h1>
 
-<!--
-**NQ-bit/NQ-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket: Creating a Ticketing System for Help Desk</b>
+  - 
+- <b>Microsoft Azure</b>
+  - 
+- <b>Virtual Private Network</b>
+  - 
+  
+- <b>Active Directory</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-<b>Networking(Cisco Packet Tracer)</b>
+
+<h2>📚Certifications📚</h2>
+- 
+
+
+- 📫 How to reach me: https://www.linkedin.com/in/nowah-g-quanteh-72a9991b2/
