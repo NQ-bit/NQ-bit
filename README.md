@@ -4,18 +4,14 @@
 <!-- <h2>👨‍💻Information Technology Projects:</h2> --> 
 
 <!-- - <b>osTicket: Creating a Ticketing System for Help Desk</b> -->
-  - 
-- <b>Microsoft Azure</b>
-  - 
-- <b>Virtual Private Network</b>
-  - 
-  
-- <b>Active Directory</b>
+<!-- - <b>Microsoft Azure</b> -->
+<!-- <b>Virtual Private Network</b>  -->
 
--<b>Networking(Cisco Packet Tracer)</b>
+ <!-- <b>Active Directory</b> --> 
 
-<h2>📚Certifications📚</h2>
-- 
+<!-- -<b>Networking(Cisco Packet Tracer)</b> --> 
+
+<!-- <h2>📚Certifications📚</h2>  -->
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/nowah-g-quanteh-72a9991b2/
